@@ -3,3 +3,5 @@
 # AIM:
 
 ## AIM:
+
+### Equipments Required:
