@@ -1,26 +1,24 @@
 # Basic-Program
 
-## AIM:
+### AIM:
 
-### To Write a Java Program to print the text “Welcome to World of Java”.
+#### To Write a Java Program to print the text “Welcome to World of Java”.
 
-## EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED:
 
-### Eclipse 2021-03
+#### Eclipse 2021-03
 
-## ALGORITHM:
+### ALGORITHM:
 
-### Step 1: Start the program.
+#### Step 1: Start the program.
 
-### Step 2: Declare a class called Welcome.
+#### Step 2: Declare a class called Welcome.
 
-### Step 3: Give the text in println() which need to print.
+#### Step 3: Give the text in println() which need to print.
 
-### Step 4: Stop the program.
+#### Step 4: Stop the program.
 
-## PROGRAM:
-
-
+### PROGRAM:
 
 
 
@@ -30,5 +28,7 @@
 
 
 
-## RESULT
-### Hence the Java program to print the text “Welcome to World of Java” was executed successfully.
+
+
+### RESULT
+#### Hence the Java program to print the text “Welcome to World of Java” was executed successfully.
