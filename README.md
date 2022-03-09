@@ -1,4 +1,4 @@
-# EX1.a: Program to print “Welcome to World of Java”
+## EX1.a: Basic Program
 
 ### AIM:
 
