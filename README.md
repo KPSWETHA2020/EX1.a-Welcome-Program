@@ -33,4 +33,4 @@ Registeration Number :
 
 
 ## RESULT
-Hence the Java program to print the text “Welcome to World of Java” was executed successfully.
+Hence the Java program to print the text “Welcome to World of Java” was written and executed successfully.
