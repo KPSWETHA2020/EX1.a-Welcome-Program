@@ -2,7 +2,7 @@
 
 ## AIM:
 
-### To Write a Java Program to print the text “Welcome to World of Java”.
+To Write a Java Program to print the text “Welcome to World of Java”.
 
 ## EQUIPMENTS REQUIRED:
 
