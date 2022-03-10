@@ -27,7 +27,7 @@ Registeration Number :
 */
 ```
 
-##OUTPUT
+## OUTPUT
 ![printtext “Welcome to World of Java”](print.png)
 
 
