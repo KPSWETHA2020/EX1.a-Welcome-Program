@@ -26,7 +26,7 @@ Registeration Number :212220230053
 */
 ```
 ## MainActivity.java:
-
+```
 package com.example.test;
     import androidx.appcompat.app.AppCompatActivity;
     import android.os.Bundle;
@@ -69,7 +69,38 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-
+```
+## activity_main.xml:
+```
+Toast toast=Toast.makeText(getApplicationContext(),"OnRestart
+Invoked",Toast.LENGTH_LONG);
+toast.show();
+}
+protected void onDestroy(){
+super.onDestroy();
+Toast toast=Toast.makeText(getApplicationContext(),"OnDestroy
+Invoked",Toast.LENGTH_LONG);
+toast.show();
+}
+}
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity">
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Hello World!"
+app:layout_constraintBottom_toBottomOf="parent"
+app:layout_constraintLeft_toLeftOf="parent"
+app:layout_constraintRight_toRightOf="parent"
+app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 ## OUTPUT
 ![2022-04-11](https://user-images.githubusercontent.com/75235209/162660932-7171adb2-44c3-4877-976b-39d39bc024ab.png)
